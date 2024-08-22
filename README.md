@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., GIS | Oklahoma State University (_Expected 2026_)								       		
+- M.Sc., Surveying Engineering-Geospatial Information System	| University of Tehran (_2012_)	 			        		
+- B.Sc., Surveying Engineering | University of Isfahan, Iran (_2009_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
