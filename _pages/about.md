@@ -8,9 +8,9 @@ redirect_from:
 ---
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Candidate in Geospatial Information System, Oklahoma State University, 2025 (expected)
+* M.Sc. in Civil Engineering-GIS, University of Tehran, Iran, 2012
+* B.Sc. in Surveying and Geomatics Engineering, University of Isfahan, Iran, 2009
 
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
