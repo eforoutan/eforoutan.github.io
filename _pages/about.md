@@ -15,4 +15,4 @@ Education
 
 A data-driven personal website
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form.
+Like many other...
