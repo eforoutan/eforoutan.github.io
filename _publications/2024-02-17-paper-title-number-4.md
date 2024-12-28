@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "Assessing heat vulnerability in Philadelphia using geographically weighted principal component analysis (GWPCA): A geospatial big data-driven approach"
 collection: publications
-category: conferences
+category: Journal
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1569843224000074'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
