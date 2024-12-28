@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ehsan Forouatn"
+title: "Ehsan Forouatn, MSc, BSc, LSIT"
 author_profile: true
 redirect_from: 
   - /about/
