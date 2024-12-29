@@ -34,6 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=sYYLOuAAAAAJ&view_op=list_works&sortby=pubdate"
   impactstory      : # URL
+  linkedin         : "https://www.linkedin.com/in/ehsanforoutan/"
   orcid            : "https://orcid.org/0000-0003-2072-9328"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -58,7 +59,6 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/ehsanforoutan/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
