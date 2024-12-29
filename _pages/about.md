@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
+<br>
 
 Welcome! I am **Ehsan Foroutan**, a Ph.D. Candidate in **Geospatial Information Systems** at Oklahoma State University. My research centers on Geomatics, geospatial data analysis, GeoAI, GeoHealth, and remote sensing, with a focus on leveraging cutting-edge technologies to address real-world challenges. 
 
