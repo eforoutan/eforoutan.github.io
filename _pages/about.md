@@ -25,5 +25,3 @@ Welcome! I am **Ehsan Foroutan**, a Ph.D. Candidate in **Geospatial Information 
   [University of Isfahan](https://www.ui.ac.ir/EN), Iran, *2009*  
 
 ---
-
-Thank you for visiting my page! Feel free to connect with me on [LinkedIn](https://www.linkedin.com).
