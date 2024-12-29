@@ -25,7 +25,7 @@ author:
   name             : "Ehsan Forouatn"
   pronouns         : # example: "she/her"  
   bio              : "Geospatial Data Scientist | Land Surveyor | FAA Certified Drone Pilot"
-  location         : "Stillwater"
+  location         : #"Stillwater"
   employer         : "Oklahoma State University"
   uri              : # URL
   email            : "ehsan.foroutan@gmail.com" 
