@@ -11,8 +11,3 @@ Education
 * Ph.D Candidate in Geospatial Information System, Oklahoma State University, 2025 (expected)
 * M.Sc. in Civil Engineering-GIS, University of Tehran, Iran, 2012
 * B.Sc. in Surveying and Geomatics Engineering, University of Isfahan, Iran, 2009
-
-
-A data-driven personal website
-======
-Like many other...
