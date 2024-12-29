@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+======
 Education
 ======
 * Ph.D Candidate in Geospatial Information System, Oklahoma State University, 2025 (expected)
