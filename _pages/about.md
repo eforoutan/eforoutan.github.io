@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-# 👨‍🎓 About Me
+## 👨‍🎓 About Me
 
-Welcome! I am **Ehsan Foroutan**, a Ph.D. Candidate specializing in **Geospatial Information Systems** at Oklahoma State University. My research focuses on leveraging geospatial big data and GeoAI for population and environmental health. 
+Welcome! I am **Ehsan Foroutan**, a Ph.D. Candidate in **Geospatial Information Systems** at Oklahoma State University. My research centers on Geomatics, geospatial data analysis, GeoAI, GeoHealth, and remote sensing, with a focus on leveraging cutting-edge technologies to address real-world challenges. 
 
 ---
 
@@ -19,10 +19,10 @@ Welcome! I am **Ehsan Foroutan**, a Ph.D. Candidate specializing in **Geospatial
   [Oklahoma State University](https://go.okstate.edu), *2025 (expected)*  
 
 - **M.Sc. in Civil Engineering - GIS**  
-  [University of Tehran](https://ut.ac.ir), Iran, *2012*  
+  [University of Tehran](https://ut.ac.ir/en), Iran, *2012*  
 
 - **B.Sc. in Surveying and Geomatics Engineering**  
-  [University of Isfahan](https://ui.ac.ir), Iran, *2009*  
+  [University of Isfahan](https://www.ui.ac.ir/EN), Iran, *2009*  
 
 ---
 
