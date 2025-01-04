@@ -19,9 +19,9 @@ Welcome! I am **Ehsan Foroutan**, a Ph.D. Candidate in **Geospatial Information 
   [Oklahoma State University](https://go.okstate.edu), *2025 (expected)*  
 
 - **M.Sc. in Civil Engineering - GIS**
-- School of Surveying and Geospatial Engineering, [University of Tehran](https://geospatialeng.ut.ac.ir/en/), Iran, *2012*
+  School of Surveying & Geospatial Engineering, [University of Tehran](https://geospatialeng.ut.ac.ir/en/), Iran, *2012*
 
 - **B.Sc. in Surveying and Geomatics Engineering**  
-  [University of Isfahan](https://www.ui.ac.ir/EN), Iran, *2009*  
+  School of Civil Engineering & Transportation, [University of Isfahan](https://cet.ui.ac.ir/en), Iran, *2009*  
 
 ---
