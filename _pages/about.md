@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ehsan Foroutan, GISP, LSIT"
+title: "Ehsan Foroutan, GISP, LSI"
 author_profile: true
 redirect_from: 
   - /about/
