@@ -15,7 +15,7 @@ Welcome! I am **Ehsan Foroutan**, a Ph.D. in **Geospatial Information Systems** 
 ## 🎓 Education
 
 - **Ph.D. in Geospatial Information Systems**  
-  Department of Geography and Environmental Studies, [Oklahoma State University](https://go.okstate.edu), *2025*  
+  Department of Geography and Environmental Studies, [Oklahoma State University]([https://go.okstate.edu](https://geog.okstate.edu/)), *2025*  
 
 - **M.Sc. in Civil Engineering - GIS**  
   School of Surveying & Geospatial Engineering, [University of Tehran](https://geospatialeng.ut.ac.ir/en/), *2012*
