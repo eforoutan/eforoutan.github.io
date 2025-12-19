@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ehsan Foroutan, PhD, GISP, LSI"
+title: "Ehsan Foroutan, PhD, GISP, LSIT"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 <br>
 
-Welcome! I am **Ehsan Foroutan**, a Ph.D. in **Geospatial Information Systems** at Oklahoma State University. My research focuses on geospatial data analysis, GeoAI, GeoHealth, and remote sensing, with a focus on leveraging cutting-edge technologies to address real-world challenges. 
+Welcome! I am **Ehsan Foroutan**, a Ph.D. in **Geospatial Information Systems** at Department of Geography, Oklahoma State University. My research focuses on geospatial data analysis, GeoAI, GeoHealth, and remote sensing, with a focus on leveraging cutting-edge technologies to address real-world challenges. 
 
 ---
 ## 🎓 Education
